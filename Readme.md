@@ -1,6 +1,6 @@
 # WebHotswapAgent
 
-Sincroniza as alterações dos arquivos da WebContent do Eclipse para o Servidor Local(Glassfish) sem a necessidade de fazer reload no servidor
+Sincroniza as alterações dos arquivos da WebContent do projeto no Eclipse para o Servidor Local(Glassfish) sem a necessidade de fazer reload no servidor
 
 #### Uso
 
