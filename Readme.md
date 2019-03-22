@@ -14,8 +14,8 @@ Sincroniza as alterações dos arquivos da WebContent do Eclipse para o Servidor
 1. Edite o arquivo web-hotswap-agent.launch na linha 6:
   * De:
   
-	<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="MY_PATH_TO_web-hotswap.sh"/>
+	... value="MY_PATH_TO_web-hotswap.sh"...
 	
   * Para, por exemplo: 
 
-	<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="/home/user/development/jee/tools/web-hotswap.sh"/>
+	... value="/home/user/development/jee/tools/web-hotswap.sh"...
