@@ -20,6 +20,6 @@ Sincroniza as alterações dos arquivos da WebContent do projeto no Eclipse para
 
 	... value="/home/user/development/jee/tools/web-hotswap.sh"...
  	
-<img src="http://alexandrecvieira.droppages.com/images/web-hotswap-agent-start1.png" width="600">
+<img src="http://alexandrecvieira.droppages.com/images/WebHotswapAgent/web-hotswap-agent-start1.png" width="600">
 
-<img src="http://alexandrecvieira.droppages.com/images/web-hotswap-agent-modify1.png" width="600">
+<img src="http://alexandrecvieira.droppages.com/images/WebHotswapAgent/web-hotswap-agent-modify1.png" width="600">
